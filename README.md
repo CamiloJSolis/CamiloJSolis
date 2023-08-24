@@ -37,7 +37,8 @@
 
 <div align="center">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CamiloJSolis/CamiloJSolis/output/github-contribution-grid-snake.svg" />
+ Snake eating my contributions
+ [![sanke gif](https://github.com/CamiloJSolis/CamiloJSolis/blob/output/github.contribution-grid-snake.gif)
 
   <br/><br/><br/>
 </div>
