@@ -54,7 +54,7 @@
     
   <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloJSolis&theme=highcontrast&title_color=01E7E7_color=F4F302)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloJSolis&theme=highcontrast&title_color=01E7E7&border_color=F4F302)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
