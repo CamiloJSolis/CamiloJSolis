@@ -36,10 +36,8 @@
 <h2> 🐍 My Contributions 🐍 <h2>
 
 <div align="center">
-
- Snake eating my contributions
  
- ![sanke gif](https://github.com/CamiloJSolis/CamiloJSolis/blob/output/github.contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CamiloJSolis/CamiloJSolis/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
