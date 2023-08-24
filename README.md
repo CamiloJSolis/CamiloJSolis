@@ -38,7 +38,8 @@
 <div align="center">
 
  Snake eating my contributions
- [![sanke gif](https://github.com/CamiloJSolis/CamiloJSolis/blob/output/github.contribution-grid-snake.gif)
+ 
+ ![sanke gif](https://github.com/CamiloJSolis/CamiloJSolis/blob/output/github.contribution-grid-snake.gif)
 
   <br/><br/><br/>
 </div>
