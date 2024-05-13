@@ -4,8 +4,6 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+こんにちは！+👋;+I'm+Camilo+Solis!+;私はソリス・カミロです！" alt="Typing SVG" /> </a>
 
-![joy](https://github.com/CamiloJSolis/CamiloJSolis/assets/101136410/fd5dd43d-210d-44e1-8d33-182e6d7f3f4f)
-
 <h3 align="center">An enthusiastic information systems engineer from Nicaragua  </h3>
 
 <br/>
