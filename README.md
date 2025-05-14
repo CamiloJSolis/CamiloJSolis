@@ -22,8 +22,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py" /><br>
-    <img src="https://skillicons.dev/icons?i=qt,mysql,cs" />  
+    <img src="https://skillicons.dev/icons?i=c,cs,java,py,qt,mysql,docker" />
   </a>
 </div>
 
