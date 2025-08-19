@@ -1,60 +1,55 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CamiloJSolis.CamiloJSolis" />
-
 <h1 align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+こんにちは！+👋;+I'm+Camilo+Solis!+;私はソリス・カミロです！" alt="Typing SVG" /> </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Camilo+Solis!;こんにちは！" alt="Typing SVG" />
+</a>
+</h1>
 
-<h3 align="center">An enthusiastic information systems engineer from Nicaragua  </h3>
+<h3 align="left">About me:</h3> 
 
-<br/>
-
-<div align="center">
-  
-  📚I'm in the early stages of my programming journey, focusing on the fundamentals
-  
-  🇯🇵 I'm at an intermediate level in my Japanese studies.
-
-</div>
+<ul>
+  <li>💻 I’m a 3rd-year Systems Engineering student passionate about exploring creativity through code.</li>
+  <li>🐧 I’m enthusiastic about Linux and building tools to enhance system functionality.</li>
+  <li>🌱 I’m continuously learning to create innovative, enterprise-ready software.</li>
+  <li> 🇯🇵 I hold a JLPT N4 certification and am studying for JLPT N3 to support cross-cultural collaboration.</li>
+</ul>
 
 <hr/>
 
-<h2 align="center"> 🛠️Languages-Tools⚒️
-<br/>
+<h2 align="center">🛠️ Languages & Tools ⚒️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,py,qt,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,py,qt,mysql,docker,vim"/>
   </a>
 </div>
 
-<br/>
 <hr/>
 
-<div align="center">
-<h2> 🐍 My Contributions 🐍 <h2>
-
-<div align="center">
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CamiloJSolis/CamiloJSolis/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
+<h2 align="center">🌟 Currently Learning</h2>
+<div align="left">
+  <ul>
+    <li>Deepening expertise in C and Linux development for system-level programming.</li>
+    <li>Mastering Docker for building scalable, containerized applications.</li>
+    <li>Exploring Rust, HTML, CSS, React, Node.js, and Flask for modern web development.</li>
+  </ul>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamiloJSolis&theme=neon&border=F4F302&stroke=F4F302&fire=E50914&dates=C299D3&ring=F4F302&sideNums=01F1D6&sideLabels=01F1D6&currStreakNum=01E7E7&currStreakLabel=01E7E7)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloJSOlis&show_icons=true&theme=highcontrast&title_color=01E7E7&border_color=F4F302)
-    
-  <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloJSolis&theme=highcontrast&title_color=01E7E7&border_color=F4F302)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CamiloJSolis&theme=highcontrast&background=000000&border=FFEE00&stroke=FFEE00&fire=FF1111&ring=FFEE00&currStreakNum=FF1111&sideNums=007AFF&currStreakLabel=00F0FF&sideLabels=007AFF&dates=00F0FF" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=CamiloJSolis&show_icons=true&icon_color=FF1111&ring_color=00F0FF&theme=highcontrast&title_color=00F0FF&text_color=00CFFF&border_color=FFEE00" alt="GitHub Stats" />
+    </a>
+  </div>
 </div>
 
-<br/><br/>
-<hr/>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloJSolis&theme=highcontrast&title_color=00F0FF&border_color=FFEE00&text_color=00CFFF&layout=compact" alt="Top Languages" />
+  </a>
+</div>
 
